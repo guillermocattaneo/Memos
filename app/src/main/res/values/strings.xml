@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Memos</string>
+    <string name="inicio">Ingresar</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="usuario">Usuario</string>
+
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="btnRegistrar">Registrar</string>
+    <string name="btnBuscar">Buscar</string>
+    <string name="btnEliminar">Eliminar</string>
+    <string name="btnModificar">Modificar</string>
+
+    <string name="btnGuardar">Guardar</string>
+    <string name="btnVolver">Volver</string>
+
+    <string name="btn">Boton</string>
+    <string name="imagen">Imagen</string>
+    <string name="eText">EditText</string>
+    <string name="txtMemo">El texto ingresado no se borrara si lo guarda.</string>
+
+</resources>
